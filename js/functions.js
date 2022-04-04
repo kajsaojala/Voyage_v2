@@ -190,6 +190,8 @@ let slider = document.getElementById('slider');
 let toggle = document.getElementById('countriesNavBtn');
 toggle.addEventListener('click', function() {
     placeCountriesInSidebar(STATE.countriesInSidebar);
+    console.log(STATE.countriesInSidebar);
+    // borde lägga in kod här som tar bort dubletter?
     let isOpen = slider.classList.contains('slide-in');
     slider.setAttribute('class', isOpen ? 'slide-out' : 'slide-in');
 });

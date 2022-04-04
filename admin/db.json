@@ -461,18 +461,6 @@
             "country": "Thailand",
             "categoryID": "1",
             "description": "Magi \u00e4r det enda jag har att s\u00e4ga om denna resa!"
-        },
-        {
-            "postID": 26,
-            "creatorID": "10",
-            "title": "test",
-            "coverImg": "..\/images\/uploads\/624b346498e95.png",
-            "images": [
-                "..\/images\/uploads\/624b346499e80.png"
-            ],
-            "country": "Italy",
-            "categoryID": "1",
-            "description": "test"
         }
     ],
     "countriesArray": [
@@ -517,9 +505,6 @@
         },
         {
             "name": "Thailand"
-        },
-        {
-            "name": "Italy"
         }
     ]
 }

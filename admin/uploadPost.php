@@ -131,18 +131,19 @@
 
         // Lägg till landet i countriesArray om det inte redan finns(som syns i sidebar) 
         // Detta är det land som usern har valt för sin nya post
-        $existingCountry;
+        $notExistingCountry = true;
         // Loopa countriesArray
         foreach ($database["countriesArray"] as $countryInArr){
+            // Kolla om landet finns
             if ($countryInArr["name"] == $country){
-                $existingCountry = false;
-            } else {
-                $existingCountry = $country;
+                // Sätt variabeln till false om landet finns (då ska nästa funktion ej köras)
+                $notExistingCountry = false;
             }
         }
-        // Om det är true att landet inte finns än
-        if ($existingCountry){
-            $countryObj = ["name" => $existingCountry];
+        // Om landet inte redan finns - är notExistingCountry true och denna funktion ska köras
+        if ($notExistingCountry){
+            $notExistingCountry = $country;
+            $countryObj = ["name" => $notExistingCountry];
             // Pushar in nytt land i database
             $database["countriesArray"][] = $countryObj;
         }
