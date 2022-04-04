@@ -1,0 +1,498 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "mandy1",
+            "password": "1234",
+            "email": "mandy89@live.com",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/person_1.jpg",
+            "bio": "Hey guys, Mandy1 here. Travel is my passion and I would love to explore the world with new travel buddies ",
+            "top3Wishes": [
+                "Costa Rica",
+                "Marocco",
+                "Mexico"
+            ],
+            "top3Favs": [
+                "Paris",
+                "Barcelona",
+                "Tokyo"
+            ],
+            "savedPosts": [
+                {
+                    "postID": "17"
+                },
+                {
+                    "postID": "17"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "kajTravels",
+            "password": "kaj1234",
+            "email": "travelGirl95@gmail.com",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/pexels-tomaz-barcellos-1987301.jpg",
+            "bio": "Hello, I'm writing a book about my travels and I've collected some moments from my journeys here!",
+            "top3Wishes": [
+                "Paris",
+                "New York",
+                "Costa Rica"
+            ],
+            "top3Favs": [
+                "Thailand",
+                "Spain",
+                "Morocco"
+            ],
+            "savedPosts": [
+                {
+                    "postID": "12"
+                },
+                {
+                    "postID": "10"
+                },
+                {
+                    "postID": "7"
+                },
+                {
+                    "postID": "8"
+                },
+                {
+                    "postID": "5"
+                },
+                {
+                    "postID": "4"
+                },
+                {
+                    "postID": "3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "username": "spanishPineiro",
+            "password": "pinne1234",
+            "email": "pinne@gmail.com",
+            "travelStatus": false,
+            "profilePic": "..\/images\/uploads\/mePineiro.jpg",
+            "bio": "Hi there! I'm exploring the world with my dog Hugo. Come along!",
+            "top3Wishes": [
+                "Japan",
+                "",
+                ""
+            ],
+            "top3Favs": [
+                "Spanien",
+                "Frankrike",
+                "England"
+            ],
+            "savedPosts": [
+                {
+                    "postID": "12"
+                },
+                {
+                    "postID": "11"
+                },
+                {
+                    "postID": "5"
+                },
+                {
+                    "postID": "10"
+                },
+                {
+                    "postID": "6"
+                },
+                {
+                    "postID": "4"
+                },
+                {
+                    "postID": "2"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "username": "sunLover",
+            "password": "1234",
+            "email": "sunislife@gmail.com",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/person_3.jpg",
+            "bio": "Hej jag \u00e4r 20 v\u00e5rar och \u00e4lskar solen, den ger mig livsgl\u00e4dje. ",
+            "top3Wishes": [
+                "Los Angeles",
+                "Bali",
+                "Cuba"
+            ],
+            "top3Favs": [
+                "Japan",
+                "",
+                ""
+            ],
+            "savedPosts": [
+                {
+                    "postID": "8"
+                },
+                {
+                    "postID": "10"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "username": "melanie",
+            "password": "12345",
+            "email": "test@test.se",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/52489215_10217431893965487_3622064779641749504_o.jpg",
+            "bio": "M\u00e5nga platser har man ej bes\u00f6kt, men det handlar om kvalitet och inte kvantitet. :)",
+            "top3Wishes": [
+                "South Korea",
+                "Cuba",
+                "Greenland"
+            ],
+            "top3Favs": [
+                "Austria",
+                "Iceland",
+                "Switzerland"
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": 6,
+            "username": "JassAroundTheWorld",
+            "password": "1234",
+            "email": "jasse@js.se",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/travel_8.jpg",
+            "bio": "Travel to collect memories",
+            "top3Wishes": [
+                "Iceland",
+                "Sweden",
+                "Schweiz"
+            ],
+            "top3Favs": [
+                "Scotland",
+                "Australia",
+                "Spain"
+            ],
+            "savedPosts": [
+                {
+                    "postID": "7"
+                },
+                {
+                    "postID": "11"
+                },
+                {
+                    "postID": "17"
+                },
+                {
+                    "postID": "16"
+                },
+                {
+                    "postID": "15"
+                },
+                {
+                    "postID": "8"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "username": "Alnur_cityTravel",
+            "password": "1234",
+            "email": "alnur@gmail.com",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/5ffb56dc5c4fe.jpg",
+            "bio": "Hey guys! I'm obsessed with weekends in a big city. Wanna join me for my next trip to Lissbon?",
+            "top3Wishes": [
+                "Tokyo",
+                "Greece",
+                "Lissbon"
+            ],
+            "top3Favs": [
+                "Barcelona",
+                "Paris",
+                "London"
+            ],
+            "savedPosts": [
+                {
+                    "postID": "16"
+                },
+                {
+                    "postID": "17"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "username": "sebbe_doglover",
+            "password": "1234",
+            "email": "aa",
+            "travelStatus": true,
+            "profilePic": "..\/images\/uploads\/pexels-simon-migaj-953182.jpg",
+            "bio": "Give me a dog and a passport and I'm yours.",
+            "top3Wishes": [
+                "",
+                "",
+                ""
+            ],
+            "top3Favs": [
+                "",
+                "",
+                ""
+            ],
+            "savedPosts": []
+        },
+        {
+            "id": 9,
+            "username": "rullgardina",
+            "password": "1234",
+            "email": "dd",
+            "travelStatus": false,
+            "profilePic": "..\/images\/uploads\/5ffb79cb3475e.jpg",
+            "bio": "Sn\u00e4lla n\u00e5gon l\u00e5t mig bara f\u00e5 njuta av solen en minut till!",
+            "top3Wishes": [
+                "Kroatien",
+                "Istanbul",
+                ""
+            ],
+            "top3Favs": [
+                "Venedig",
+                "",
+                ""
+            ],
+            "savedPosts": []
+        }
+    ],
+    "posts": [
+        {
+            "postID": 13,
+            "creatorID": "5",
+            "title": "Berlin Berlin",
+            "coverImg": "..\/images\/uploads\/5ff91797f324a.jpg",
+            "images": [
+                "..\/images\/uploads\/5ff91797f37c3.jpg",
+                "..\/images\/uploads\/5ff91797f3d93.jpg",
+                "..\/images\/uploads\/5ff91797f401c.jpg",
+                "..\/images\/uploads\/aefe243r5rsnv.jpg"
+            ],
+            "albumID": false,
+            "country": "Germany",
+            "categoryID": "9",
+            "description": "Herregud vilken vecka man hade i Berlin! Ojojoj, en vecka r\u00e4cker knappt till f\u00f6r att uppt\u00e4cka alla dessa fina st\u00e4llen som finns i denna fantastiska stad.. I am amazed! Sedan hade man ocks\u00e5 riktigt fint s\u00e4llskap s\u00e5klart, s\u00e5 d\u00e5 blev det \u00e4nnu roligare. Och vem skulle klaga \u00f6ver en personlig guide? \r\n\r\nB\u00e4sta st\u00e4llet att rekommendera? Vill man \u00e4ta Korean BBQ, d\u00e5 \u00e4r det definitivt Hanok man ska \u00e5ka till!!! och gl\u00f6m f\u00f6r fasiken inte att smaka en riktig Berliner Currywurst! :) Die ist juuuuuuut! som folk i Berlin skulle s\u00e4ga. :)"
+        },
+        {
+            "postID": 14,
+            "creatorID": "5",
+            "title": "Island - wow!!!",
+            "coverImg": "..\/images\/uploads\/5ff9196a2163c.jpg",
+            "images": [
+                "..\/images\/uploads\/5ff9196a21c90.jpg",
+                "..\/images\/uploads\/5ff9196a2226a.jpg",
+                "..\/images\/uploads\/5ff9196a223ad.jpg"
+            ],
+            "albumID": false,
+            "country": "Iceland",
+            "categoryID": "5",
+            "description": "Wowowowowow!!! Island var fantastisk!! Herregud, vilken fantastisk landskap och har ni n\u00e5gonsin f\u00e5tt se norrskenet IRL?? AMAZING! .. okej nu lj\u00f6g jag lite f\u00f6r man s\u00e5g knappt att det faktiskt skedde och kameran plockade upp det 1000 g\u00e5nger b\u00e4ttre \u00e4n vad det egentligen var hahaha menmen jag \u00e4r fortfarande glad att man fick se det :D"
+        },
+        {
+            "postID": 15,
+            "creatorID": "5",
+            "title": "Schwiiiiiiitz",
+            "coverImg": "..\/images\/uploads\/5ff91b1c0b545.jpg",
+            "images": [
+                "..\/images\/uploads\/5ff91b1c0bafd.jpg",
+                "..\/images\/uploads\/5ff91b1c0c0ed.jpg",
+                "..\/images\/uploads\/5ff91b1c0c234.jpg",
+                "..\/images\/uploads\/5ff91b1c0c390.jpg",
+                "..\/images\/uploads\/5ff91b1c0c4cb.jpg"
+            ],
+            "albumID": false,
+            "country": "Switzerland",
+            "categoryID": "9",
+            "description": "Gr\u00fcezi! :D \r\nSchweiz var fantastisk, herregud vad roligt vi hade.. framf\u00f6r allt med tanken p\u00e5 att man bodde p\u00e5 ett j\u00e4ttefint hotell i Davos UTAN att beh\u00f6va betala f\u00f6r det :O .. f\u00f6r att vara \u00e4rlig beh\u00f6vde vi inte betala f\u00f6r n\u00e5gonting haha v\u00e4rden stod f\u00f6r allt! "
+        },
+        {
+            "postID": 16,
+            "creatorID": "5",
+            "title": "Hemsemester!!!",
+            "coverImg": "..\/images\/uploads\/5ff91cc014acd.jpg",
+            "images": [
+                "..\/images\/uploads\/5ff91cc015121.jpg",
+                "..\/images\/uploads\/5ff91cc0154ee.jpg",
+                "..\/images\/uploads\/5ff91cc015656.jpg"
+            ],
+            "albumID": false,
+            "country": "Austria",
+            "categoryID": "10",
+            "description": "Vilken fin tid man hade med sin familj i \u00d6sterrike.. och vi hann tom att bes\u00f6ka den k\u00e4nda Gr\u00fcner See.. synd att vattnet stod s\u00e5 l\u00e5gt dock. :( "
+        },
+        {
+            "postID": 17,
+            "creatorID": "5",
+            "title": "Lejonkungen i Hamburg",
+            "coverImg": "..\/images\/uploads\/5ff91d4842195.jpg",
+            "images": [
+                "..\/images\/uploads\/5ff91d48423f5.jpg",
+                "..\/images\/uploads\/5ff91d484265b.jpg",
+                "..\/images\/uploads\/5ff91d48428c6.jpg",
+                "..\/images\/uploads\/5ff91d4842acd.jpg",
+                "..\/images\/uploads\/5ff91d4842cba.jpg"
+            ],
+            "albumID": false,
+            "country": "Germany",
+            "categoryID": "9",
+            "description": "Min mamma \u00f6verraskade mig med en superfin f\u00f6delsedagspresent... hon anordnade en resa till Hamburg d\u00e4r vi kollade p\u00e5 musikalen Lejonkungen.. Vilken dr\u00f6m.. fan vad man gr\u00e4t <3 "
+        },
+        {
+            "postID": 18,
+            "creatorID": "7",
+            "title": "Weekend",
+            "coverImg": "..\/images\/uploads\/5ffb577f7574c.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb577f7613e.jpg"
+            ],
+            "albumID": false,
+            "country": "Spain",
+            "categoryID": "9",
+            "description": "Walking the picturesque streets of Barcelona"
+        },
+        {
+            "postID": 19,
+            "creatorID": "3",
+            "title": "Hugo och jag i Spanien",
+            "coverImg": "..\/images\/uploads\/5ffb67e34161e.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb67e3419bb.jpg"
+            ],
+            "albumID": false,
+            "country": "Spain",
+            "categoryID": "7",
+            "description": "Att f\u00e5 visa Hugo mitt hemland var verkligen n\u00e5got alldeles speciellt. Han k\u00e4nde sig hemma direkt och b\u00f6rjade n\u00e4stan voffa p\u00e5 spanska. Vi har verkligen f\u00e5tt ett starkare band efter denna fantastiska resa!"
+        },
+        {
+            "postID": 20,
+            "creatorID": "8",
+            "title": "Hemester med Doris",
+            "coverImg": "..\/images\/uploads\/5ffb702d50352.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb702d506f7.jpg"
+            ],
+            "country": "Sweden",
+            "categoryID": "1",
+            "description": "Tillbringade tv\u00e5 veckor med familjen och Doris utanf\u00f6r Kivik. Fantastiska kv\u00e4llar vid stranden!"
+        },
+        {
+            "postID": 21,
+            "creatorID": "4",
+            "title": "Backpacking p\u00e5 Bali",
+            "coverImg": "..\/images\/uploads\/5ffb7227dc6ef.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb7227dca72.jpg"
+            ],
+            "country": "Indonesia",
+            "categoryID": "1",
+            "description": "Idag hittade vi v\u00e4rldens finaste vattenfall mitt i djungeln! Vi spenderade hela dagen d\u00e4r innan vi begav oss tillbaka mot hotellet. Kan verkligen rekommendera hotellet Giliwang waters utanf\u00f6r Gilwa Nagar. S\u00e5 fint och s\u00e5 god mat!"
+        },
+        {
+            "postID": 22,
+            "creatorID": "1",
+            "title": "Cappadocia with Ali",
+            "coverImg": "..\/images\/uploads\/5ffb73921b0c4.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb73921b450.jpg",
+                "..\/images\/uploads\/5ffb73921b767.jpg",
+                "..\/images\/uploads\/5ffb73921ba04.jpg"
+            ],
+            "country": "Turkey",
+            "categoryID": "5",
+            "description": "Me and Ali spent two weeks in Turkey. The best part of the trip was our visit in beautiful Cappadocia. Have you even seen such beauty?"
+        },
+        {
+            "postID": 23,
+            "creatorID": "1",
+            "title": "Five islands in one week",
+            "coverImg": "..\/images\/uploads\/5ffb751f19418.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb751f1973f.jpg",
+                "..\/images\/uploads\/5ffb751f199e8.jpg"
+            ],
+            "country": "Greece",
+            "categoryID": "2",
+            "description": "Last summer was amazing. I spent one week visiting five islands in Greece with my best friends. Can\u00b4t waint to go back!"
+        },
+        {
+            "postID": 24,
+            "creatorID": "9",
+            "title": "Venedig i mitt hj\u00e4rta",
+            "coverImg": "..\/images\/uploads\/5ffb79b764183.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb79b764522.jpg",
+                "..\/images\/uploads\/5ffb79b764816.jpg"
+            ],
+            "country": "Italy",
+            "categoryID": "3",
+            "description": "Denna resa var verkligen \u00f6ver all f\u00f6rv\u00e4ntan! Vi \u00e5kte kanalb\u00e5t, tittade p\u00e5 utst\u00e4llningar, nj\u00f6t av god mat och vackra byggnader varje dag. "
+        },
+        {
+            "postID": 25,
+            "creatorID": "9",
+            "title": "Sunsets and exotic fruits",
+            "coverImg": "..\/images\/uploads\/5ffb7c2cc8d00.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb7c2cc9095.jpg",
+                "..\/images\/uploads\/5ffb7c2cc93a9.jpg",
+                "..\/images\/uploads\/5ffb7c2cc9706.jpg"
+            ],
+            "country": "Thailand",
+            "categoryID": "1",
+            "description": "Magi \u00e4r det enda jag har att s\u00e4ga om denna resa!"
+        }
+    ],
+    "countriesArray": [
+        {
+            "name": "Germany"
+        },
+        {
+            "name": "Iceland"
+        },
+        {
+            "name": "Austria"
+        },
+        {
+            "name": "Switzerland"
+        },
+        {
+            "name": "Spain"
+        },
+        {
+            "name": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+            "name": "Azerbaijan"
+        },
+        {
+            "name": "Afghanistan"
+        },
+        {
+            "name": "Sweden"
+        },
+        {
+            "name": "Indonesia"
+        },
+        {
+            "name": "Turkey"
+        },
+        {
+            "name": "Greece"
+        },
+        {
+            "name": "Italy"
+        },
+        {
+            "name": "Thailand"
+        }
+    ]
+}
