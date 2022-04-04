@@ -157,6 +157,7 @@ function makePostOptions(element, container, value = element){
 document.getElementById("add").addEventListener("click", function(){
     let optionsCategory = document.getElementById("postCategorySelect");
     let optionsCountry = document.getElementById("postCountrySelect");
+    STATE.countries.sort();
     STATE.countries.forEach(country => {
         makePostOptions(country, optionsCountry);
     });
