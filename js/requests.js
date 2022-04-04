@@ -205,19 +205,21 @@ function removePostFromDB(id){
 
 
 function getCountries(){
-    let request = new Request('https://restcountries.eu/rest/v2/all');
+    let request = new Request('https://restcountries.com/v3.1/all');
     fetch(request)
     .then(response => {
         return response.json();
     })
     .then(resource =>{
         STATE.countries = [];
+        
         resource.forEach(element => {
+            console.log(element.name.common)
             //Ger namn på 250 länder!
             //Tar bort allt som finns efter en öppningsparantes vid landnamn och lägger i en separat array
-            let countryName = element.name.split("(");
+            //----let countryName = element.name.split("(");
             //Pushar in första elementet av arrayen för att få det som finns innan öppningsparantesen
-            STATE.countries.push(countryName[0]);
+            STATE.countries.push(element.name.common);
             //STATE.countriesCode.push({name: element.name, code: element.alpha2Code}) //denna var till för eventuell mer info om landet /kaj
         });
     })

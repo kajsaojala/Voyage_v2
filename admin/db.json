@@ -263,6 +263,18 @@
                 ""
             ],
             "savedPosts": []
+        },
+        {
+            "id": 10,
+            "username": "hejsan",
+            "password": "hejsan",
+            "email": "hejsan",
+            "travelStatus": false,
+            "profilePic": false,
+            "bio": false,
+            "top3Wishes": false,
+            "top3Favs": false,
+            "savedPosts": []
         }
     ],
     "posts": [

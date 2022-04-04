@@ -435,6 +435,20 @@
             "country": "Italy",
             "categoryID": "3",
             "description": "Denna resa var verkligen \u00f6ver all f\u00f6rv\u00e4ntan! Vi \u00e5kte kanalb\u00e5t, tittade p\u00e5 utst\u00e4llningar, nj\u00f6t av god mat och vackra byggnader varje dag. "
+        },
+        {
+            "postID": 25,
+            "creatorID": "9",
+            "title": "Sunsets and exotic fruits",
+            "coverImg": "..\/images\/uploads\/5ffb7c2cc8d00.jpg",
+            "images": [
+                "..\/images\/uploads\/5ffb7c2cc9095.jpg",
+                "..\/images\/uploads\/5ffb7c2cc93a9.jpg",
+                "..\/images\/uploads\/5ffb7c2cc9706.jpg"
+            ],
+            "country": "Thailand",
+            "categoryID": "1",
+            "description": "Magi \u00e4r det enda jag har att s\u00e4ga om denna resa!"
         }
     ],
     "countriesArray": [
@@ -476,6 +490,9 @@
         },
         {
             "name": "Italy"
+        },
+        {
+            "name": "Thailand"
         }
     ]
 }
